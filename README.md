@@ -103,8 +103,11 @@ No comando acima ele também irá pedir uma mensagem para a nova tag criada.
 
 ## Subir todas as branchs para o github
 
-Para subir todos os branchs podemos utilizar o seguinte comando:
+Para subir todos os branchs podemos utilizar o seguinte comando para atualizar as branchs e as tags no git hub:
 
 ```
 git push --all
+```
+```
+git push --tags
 ```
